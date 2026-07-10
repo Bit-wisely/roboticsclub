@@ -5,7 +5,7 @@ import { ChevronDown } from 'lucide-react'
 
 export function Hero() {
   return (
-    <section className="relative flex min-h-svh flex-col items-center justify-center overflow-hidden px-6">
+    <section className="relative flex min-h-svh flex-col items-center justify-center overflow-hidden px-6 pt-16 md:pt-24">
       {/* Tree line-art backdrop */}
       <div
         aria-hidden="true"
